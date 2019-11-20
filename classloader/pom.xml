@@ -10,16 +10,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kq</groupId>
-    <artifactId>mycore</artifactId>
+    <artifactId>classloader</artifactId>
 
     <dependencies>
 
-
+        <!-- https://mvnrepository.com/artifact/org.apache.dubbo/dubbo -->
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <scope>test</scope>
+            <groupId>org.apache.dubbo</groupId>
+            <artifactId>dubbo</artifactId>
+            <version>2.7.4.1</version>
         </dependency>
+
 
     </dependencies>
 

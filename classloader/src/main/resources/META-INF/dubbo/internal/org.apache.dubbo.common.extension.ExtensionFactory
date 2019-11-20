@@ -1,0 +1,2 @@
+aop=org.apache.dubbo.common.extension.factory.AOPExtensionFactory
+spring=org.apache.dubbo.config.spring.extension.SpringExtensionFactory
